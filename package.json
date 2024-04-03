@@ -10,8 +10,12 @@
     "test": "jest"
   },
   "dependencies": {
+    "@videosdk.live/react-native-incallmanager": "^0.1.0",
+    "@videosdk.live/react-native-sdk": "^0.1.6",
+    "dotenv": "^16.4.5",
     "react": "18.2.0",
-    "react-native": "0.73.6"
+    "react-native": "0.73.6",
+    "react-native-webrtc": "^118.0.3"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",

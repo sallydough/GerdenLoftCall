@@ -4,6 +4,15 @@
     <style name="AppTheme" parent="Theme.AppCompat.DayNight.NoActionBar">
         <!-- Customize your theme here. -->
         <item name="android:editTextBackground">@drawable/rn_edit_text_material</item>
+
+
+<!-- Customize SDK colours (colors.xml). -->
+        <item name="red" type="color">#FC0303</item>
+    <integer-array name="androidcolors">
+    <item>@color/red</item>
+    </integer-array>
+
+
     </style>
 
 </resources>
